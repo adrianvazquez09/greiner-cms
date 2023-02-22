@@ -1,0 +1,143 @@
+CRITICAL - 2021-05-25 00:07:57 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:07:57 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:07:57 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:08:24 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:08:24 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:08:24 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:08:46 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:08:46 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:08:46 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:09:28 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:09:28 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:09:28 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:09:29 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:09:29 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:09:29 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:09:51 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:09:51 --> Undefined property: App\Controllers\Order::$order
+#0 C:\wamp64\www\cms\app\Controllers\Order.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Order->index()
+#2 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+#3 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\cms\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-25 00:09:53 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:09:53 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:10:12 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:10:12 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:10:12 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:10:44 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:10:44 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:10:45 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:21:13 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:21:14 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:21:14 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:21:15 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:21:15 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:26:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:26:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:26:31 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:26:34 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:26:34 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:26:34 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:02 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:02 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:03 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:04 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:04 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:05 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:31 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:33 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:33 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:33 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:35 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:35 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:35 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:38 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:38 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:29:38 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:32:51 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:32:51 --> Undefined property: App\Controllers\Admin::$mold
+#0 C:\wamp64\www\cms\app\Controllers\Admin.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\c...', 62, Array)
+#1 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Admin->mold()
+#2 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\cms\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-25 00:32:53 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:32:53 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:40:05 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:40:05 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:40:05 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:40:07 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:40:07 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:40:07 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:40:09 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:40:09 --> Undefined property: App\Controllers\Admin::$mold
+#0 C:\wamp64\www\cms\app\Controllers\Admin.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\c...', 62, Array)
+#1 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Admin->mold()
+#2 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\cms\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-25 00:40:14 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:40:15 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:49:07 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:49:07 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:49:07 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:49:09 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:49:09 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:49:09 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:55:14 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:55:14 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 00:55:14 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:01:27 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:01:27 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:01:27 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:01:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:01:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:01:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:02:47 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:02:47 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:02:47 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:02:49 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:02:49 --> Undefined property: App\Controllers\Admin::$mold
+#0 C:\wamp64\www\cms\app\Controllers\Admin.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\c...', 62, Array)
+#1 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Admin->mold()
+#2 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\cms\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-25 01:02:52 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:02:52 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:04:24 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:04:24 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:04:24 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:04:27 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:07:55 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:07:55 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:07:55 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:08:00 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:08:00 --> Undefined property: App\Controllers\Profile::$tech
+#0 C:\wamp64\www\cms\app\Controllers\Profile.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Profile->index()
+#2 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#3 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\cms\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-25 01:08:03 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:08:03 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:08:22 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:08:22 --> Undefined property: App\Controllers\Profile::$tech
+#0 C:\wamp64\www\cms\app\Controllers\Profile.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Profile->index()
+#2 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#3 C:\wamp64\www\cms\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\cms\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-25 01:15:18 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:15:19 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:15:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:15:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-05-25 01:15:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
